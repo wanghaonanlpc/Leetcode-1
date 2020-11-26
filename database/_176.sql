@@ -4,3 +4,4 @@ where Salary < (
         select max(Salary)
         from Employee
     )
+    
